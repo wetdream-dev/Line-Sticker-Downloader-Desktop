@@ -21,3 +21,4 @@ https://store.line.me/stickershop/product/25844202/id
 
 https://store.line.me/emojishop/product/5d09e0ab040ab1dc2ac90ab8/id
 
+◈ From the example above, Sticker ID is 25844202 and Emoji ID is 5d09e0ab040ab1dc2ac90ab8.

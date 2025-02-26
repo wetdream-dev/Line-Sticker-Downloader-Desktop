@@ -1,5 +1,5 @@
 
-LineStickerDownloader
+## LineStickerDownloader
 
 Tool that downloads sticker and emoji from the Line Store.
 
